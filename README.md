@@ -1,2 +1,3 @@
 # hacienda-skat
-Repositorio para compartir plantillas de declaracion de la renta de allquiler en España (Modelo 210) y Dinamarca
+
+Repositorio para compartir plantillas de declaración de la renta de alquiler en España (Modelo 210) y Dinamarca.

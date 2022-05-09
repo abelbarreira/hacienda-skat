@@ -23,6 +23,7 @@ El valor del recibo del __IBI 20xx__ es de `400 €` (Cuota Total Pagada, descon
 ```txt
 400 / 4 = 100 €
 ```
+
 > Lo del IBI tiene un poco de truco: Como hasta el final del año no se conoce exactamente yo uso el del año anterior en 1T, 2T y 3T y lo ajusto en 4T.
 
 ### 2. Amortización, 3% Valor de Construcción (Gasto Fiscalmente Deducible)
@@ -87,7 +88,6 @@ IBI 20xx + Amor3%   + Comun    + HipInt  + Seguro  + Gastos
 ```
 
 Total a deducir `746,41 €`
-
 
 A rellenar en la **casilla 7**.
 

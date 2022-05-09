@@ -28,7 +28,7 @@
   - Capital concedido: `xxxxx`
   - Nuevo saldo pendiente: `xxxxx`
 
-## Where to fill this information 
+## Where to fill this information
 
 All this should be confirmed with SKAT by calling them.
 
@@ -125,10 +125,10 @@ Do you have foreign income, property, wealth, debt, etc.?
 
    Accounting information
       Accounting information on the company
-      
+
          Box 300:
             Set my CPR number
-            
+
          Box 638:
             Like 0
 
@@ -138,5 +138,3 @@ Do you have foreign income, property, wealth, debt, etc.?
             In this box, it doesnt matter if I select the first or the second one. I select the first one.
 
    Click "Approved"!
-
-
