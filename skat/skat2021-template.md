@@ -32,6 +32,8 @@
 
 All this should be confirmed with SKAT by calling them.
 
+Inside **Foreign income --> Foreign property**:
+
 - Box 212: `xxxxx DKK`
 I have to put here the value of my property, according to the current Spanish market, the value that I estimate it (I have to do this analysis on my own) on the date 31st of December 2020 (just one day before the SKAT 2021).
 
@@ -86,6 +88,8 @@ Multi-year commercial rental. Indicate number of days * = 360
  > * A calendar month is 30 days and the income year 360 days
 
 - The next questions are NO, NO, NO.
+
+Inside **Foreign income --> Foreign company**:
 
 - Box 401: `Spanien`
 - Box 460: `xxxxx DKK`
